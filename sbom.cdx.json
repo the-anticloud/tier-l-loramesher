@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:98513a6f-7c2f-55eb-901b-7f2b4375c431",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-14T06:09:23Z",
+    "component": {
+      "type": "application",
+      "name": "L_LORAMESHER",
+      "version": "6ffb8fcdeb50",
+      "bom-ref": "pkg:generic/anticloud/L_LORAMESHER@6ffb8fcdeb50",
+      "purl": "pkg:generic/anticloud/L_LORAMESHER@6ffb8fcdeb50",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "6ffb8fcdeb509110cd8ec50a9ff785f9f3f0b794"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/LoRaMesher/LoRaMesher"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}

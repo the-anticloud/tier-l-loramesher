@@ -1,0 +1,8 @@
+ Build & Test — L_LORAMESHER
+
+bash
+git clone https://github.com/LoRaMesher/LoRaMesher
+cd l-loramesher
+pip install -e .dev
+pytest tests/
+
